@@ -59,7 +59,7 @@ function Registerpage() {
         </button>
         <p style={{ color: "orange" }}>
           Already registered? <FaArrowRight />
-          <Link to="/">Log in</Link>
+          <Link to="/login">Log in</Link>
         </p>
         {errorMessage && <p className="text-danger">{errorMessage}</p>}
       </form>
