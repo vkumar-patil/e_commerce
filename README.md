@@ -12,7 +12,7 @@ This is a front-end clone of an e-commerce site built using *React* and powered 
 
  📦 GitHub Repository
 
-🔗 [GitHub Repo](https://github.com/your-username/e_commerce](https://github.com/vkumar-patil/e_commerce)
+🔗 [GitHub Repo](https://github.com/vkumar-patil/e_commerce)
 
 ---
 
@@ -44,8 +44,8 @@ This is a front-end clone of an e-commerce site built using *React* and powered 
  1. Clone the repo
 
 bash
-git clone https://github.com/your-username/e_commerce.git
-cd e_commerce_
+git clone https://github.com/vkumar-patil/e_commerce.git
+cd e_commerce
 
 *Setup Firebase
 Create a Firebase project at firebase.google.com
