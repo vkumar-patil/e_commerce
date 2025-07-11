@@ -13,7 +13,7 @@ function Registerpage() {
   const { userLoggedIn } = useAuth();
   useEffect(() => {
     if (userLoggedIn) {
-      navigate("/home", { replace: true });
+      navigate("/", { replace: true });
     }
   }, [userLoggedIn, navigate]);
   const handleSubmit = async (e) => {
