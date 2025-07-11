@@ -6,13 +6,13 @@ This is a front-end clone of an e-commerce site built using *React* and powered 
 
 🌐 Live Demo
 
-🔗 [View Deployed Site on Vercel](https://your-vercel-link.vercel.app](https://e-commerce-5pnc.vercel.app/)
+🔗 [View Deployed Site on Vercel](https://e-commerce-mu-six-17.vercel.app/)
 
 ---
 
  📦 GitHub Repository
 
-🔗 [GitHub Repo](https://github.com/your-username/e_commerce_](https://github.com/vkumar-patil/e_commerce_)
+🔗 [GitHub Repo](https://github.com/your-username/e_commerce](https://github.com/vkumar-patil/e_commerce)
 
 ---
 
@@ -44,7 +44,7 @@ This is a front-end clone of an e-commerce site built using *React* and powered 
  1. Clone the repo
 
 bash
-git clone https://github.com/your-username/e_commerce_.git
+git clone https://github.com/your-username/e_commerce.git
 cd e_commerce_
 
 *Setup Firebase
